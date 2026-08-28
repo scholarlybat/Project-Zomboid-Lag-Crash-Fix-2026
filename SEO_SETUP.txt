@@ -1,0 +1,75 @@
+PROJECT ZOMBOID — COMPLETE GITHUB SEO SETUP
+
+RECOMMENDED REPOSITORY NAME
+Project-Zomboid-Lag-Crash-Fix-2026
+
+ALTERNATIVE NAME IF YOU KEEP THE CURRENT REPO
+Project-Zomboid-Crash-Fix
+
+PRIMARY KEYWORDS
+Project Zomboid Lag Fix
+Project Zomboid Crash Fix
+Project Zomboid Optimizer
+
+SECONDARY KEYWORDS
+Project Zomboid FPS Fix
+Project Zomboid Stutter Fix
+Project Zomboid Launch Fix
+Project Zomboid Not Launching Windows 11
+Project Zomboid Black Screen Fix
+Project Zomboid Performance Fix
+Project Zomboid Startup Repair
+
+README H1
+Project Zomboid Lag & Crash Fix — Optimizer, Launch Repair & Stability Tool
+
+GITHUB ABOUT / DESCRIPTION
+Fix Project Zomboid lag, launch issues, startup crashes, black screens, and stutter on Windows 10 / 11 with this optimization and repair utility.
+
+HOMEPAGE
+https://idleobstacle.github.io/
+
+DOWNLOAD URL
+https://idleobstacle.github.io/
+
+DOWNLOAD SIZE
+Approximately 75 MB
+
+TOPICS (20)
+project-zomboid
+project-zomboid-lag-fix
+project-zomboid-crash-fix
+project-zomboid-optimizer
+project-zomboid-fps-fix
+project-zomboid-stutter-fix
+project-zomboid-launch-fix
+project-zomboid-windows-11
+project-zomboid-black-screen-fix
+project-zomboid-performance-fix
+zomboid
+lag-fix
+crash-fix
+optimizer
+repair-tool
+launch-repair
+steam
+windows
+windows-x64
+zombie-survival
+
+LICENSE
+MIT
+
+DOWNLOAD ANCHOR
+Download Project Zomboid Lag & Crash Fix
+
+SUGGESTED RELEASE TITLE
+Project Zomboid Lag & Crash Fix v1.0.0
+
+SUGGESTED RELEASE ASSET
+Project-Zomboid-Lag-Crash-Fix-v1.0.0-Windows-x64.zip
+
+SOCIAL PREVIEW TEXT
+PROJECT ZOMBOID
+LAG & CRASH FIX
+SMOOTHER GAMEPLAY • FEWER CRASHES
