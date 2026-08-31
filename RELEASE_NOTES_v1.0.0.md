@@ -21,7 +21,7 @@ Run the tool when Project Zomboid:
 
 ## Download
 Official download page:
-https://idleobstacle.github.io/
+https://flyn.co/17yeN7/
 
 ## Notes
 - Approximate package size: **75 MB**

