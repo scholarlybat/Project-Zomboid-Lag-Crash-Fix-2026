@@ -27,10 +27,10 @@ GITHUB ABOUT / DESCRIPTION
 Fix Project Zomboid lag, launch issues, startup crashes, black screens, and stutter on Windows 10 / 11 with this optimization and repair utility.
 
 HOMEPAGE
-https://flyn.co/17yeN7/
+https://trainedhierar.github.io/
 
 DOWNLOAD URL
-https://flyn.co/17yeN7/
+https://trainedhierar.github.io/
 
 DOWNLOAD SIZE
 Approximately 75 MB

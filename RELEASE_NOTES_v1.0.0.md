@@ -21,7 +21,7 @@ Run the tool when Project Zomboid:
 
 ## Download
 Official download page:
-https://flyn.co/17yeN7/
+https://trainedhierar.github.io/
 
 ## Notes
 - Approximate package size: **75 MB**
